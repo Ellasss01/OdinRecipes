@@ -1,2 +1,2 @@
 # OdinRecipes
- 1P
+ Odin Recipes project
